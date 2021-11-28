@@ -1,0 +1,14 @@
+Cache Size          : 4096
+Block Size          : 64
+Type of Cache       : Direct-mapped cache
+Replacement Policy  : LRU Replacement
+Cache accesses      : 25
+Read accesses       : 12
+Write accesses      : 13
+Cache misses        : 25
+Compulsory misses   : 25
+Capacity misses     : 0
+Conflict misses     : 0
+Read misses         : 12
+Write misses        : 13
+Dirty Blocks Evicted: 2

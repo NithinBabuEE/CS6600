@@ -1,0 +1,9 @@
+Total requests: 36
+Page miss rate: 58.33%
+Page hit rate: 41.66%
+Read requests: 18
+Write requests: 18
+PID: 1: 26 requests
+PID: 2: 10 requests
+Dirty page evictions: 0
+Space for paging logic: Calculate this

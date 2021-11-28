@@ -1,0 +1,11 @@
+issue_width 2
+add_latency 2
+mul_latency 3
+div_latency 5
+ls_latency 1
+cache_latency 6
+size_add_rs 3
+size_mul_rs 2
+size_div_rs 2
+size_mem_op_rs 3
+size_rob 128
